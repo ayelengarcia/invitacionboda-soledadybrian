@@ -157,7 +157,7 @@ h2,
   font-size: 1.6rem !important;
 }
 
-.nombre {
+.nombre, span {
   color: #ce87ec;
 }
 p {
@@ -165,7 +165,7 @@ p {
 }
 
 .jr-front {
-  width: 21.8ch;
+  width: 22ch;
   display: block;
   overflow: hidden;
   white-space: nowrap;
