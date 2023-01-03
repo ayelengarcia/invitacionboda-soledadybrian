@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": "/assets/Shoply.png",
+    "image": "/assets/shoply.png",
     "title": "SHOPLY",
     "subtitle": "REACT JS, HTML, CSS, SASS, CHAKRA UI.",
     "description": "Practica/challenge con React js. Creando brand, landing y componentes. Estilos con libreria ChakraUI; preentrega React Js de CoderHouse. Uso de JSON con API fake, desestructuración, map de objetos, responsive",
