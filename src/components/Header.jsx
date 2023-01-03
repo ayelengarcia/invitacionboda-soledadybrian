@@ -6,7 +6,7 @@ const header = () => {
       <div className="navbar m-2 mx-3">
         <div className="col-12 d-flex justify-content-between align-items-center px-3">
           <div className="col-1">
-            <img src="src/assets/logoPortaf.png" alt="Logo" className="logo" />
+            <img src="src/assets/logoPortaf.webp" alt="Logo" className="logo" />
           </div>
           <ul className="col-8 d-none d-sm-flex justify-content-center m-0 p-0 pt-1 ps-4 gap-md-5">
             <li>
