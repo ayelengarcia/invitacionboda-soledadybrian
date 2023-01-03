@@ -3,7 +3,7 @@
     "id": 1,
     "img": "/assets/Html.png",
     "alt": "Html",
-    "clase": "w-100",
+    "clase": "w-75",
     "skill": "HTML"
   },
   {
@@ -24,49 +24,49 @@
     "id": 4,
     "img": "/assets/Github.png",
     "alt": "Github",
-    "clase": "w-100",
+    "clase": "w-75",
     "skill": "Github"
   },
   {
     "id": 5,
     "img": "/assets/Git.png",
     "alt": "GIT",
-    "clase": "w-100",
+    "clase": "w-75",
     "skill": "GIT"
   },
   {
     "id": 6,
     "img": "/assets/Atom.png",
     "alt": "React",
-    "clase": "w-100",
+    "clase": "w-75",
     "skill": "React"
   },
   {
     "id": 7,
     "img": "/assets/Sass.png",
     "alt": "Sass",
-    "clase": "w-50",
+    "clase": "w-75",
     "skill": "SASS"
   },
   {
     "id": 8,
     "img": "/assets/Nodejs.png",
     "alt": "Node JS",
-    "clase": "w-100",
+    "clase": "w-75",
     "skill": "NodeJs"
   },
   {
     "id": 9,
     "img": "/assets/Figma.png",
     "alt": "Figma",
-    "clase": "w-100",
+    "clase": "w-75",
     "skill": "Figma"
   },
   {
     "id": 10,
     "img": "/assets/Boost.png",
     "alt": "Boostrap",
-    "clase": "w-100",
+    "clase": "w-75",
     "skill": "Boostrap"
   },
   {
