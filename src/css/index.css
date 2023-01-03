@@ -154,12 +154,11 @@ h2,
   font-family: "Nunito", sans-serif;
   font-weight: 800 !important;
   line-height: 150% !important;
-  font-size: 42px;
+  font-size: 1.6rem !important;
 }
 
-span {
+.nombre {
   color: #ce87ec;
-  font-size: 1.2rem;
 }
 p {
   font-size: 1.2rem;
