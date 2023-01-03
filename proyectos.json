@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "src/assets/FineGames.png",
+    "image": "/assets/FineGames.png",
     "title": "FINE GAMES",
     "subtitle": "HTML, CSS, JS, SASS, BOOSTRAP, TOASTYFY, ALERTSWEEET.",
     "description": "Se trata de un simulador Ecomerce de una Store de juegos inspirada en algunas de las más conocidas. Se desarrolló con JavaScript vanilla, se utilizo tecnologia ajax, fetch y json para simular el intercambio backend y el consumo de appi. Se utilizó boostrap como framework para darle estilos, sin embargo la mayoria de modales y eventos fueron creadas con css puro y js.",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "src/assets/BrujuVG.png",
+    "image": "/assets/BrujuVG.png",
     "title": "BRUJULA VEGAN",
     "subtitle": "HTML, CSS, SASS, BOOSTRAP, SEO.",
     "description": "Brujula Vegan es un Sitio Web de recetas veganas inspirado en un emprendimiento personal. Con el inicio de mi nuevo camino en el mundo del desarrollo surge la idea de usar este proyecto personal para darle vida a la creatividad y la dedicación que requería el de mi primer desarrollo web",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "image": "src/assets/PortfolioBrujula.png",
+    "image": "/assets/PortfolioBrujula.png",
     "title": "PORTFOLIO BRUJULA",
     "subtitle": "HTML, CSS, REACT JS, NODE JS, BOOSTRAP, ANIMACIONES",
     "description": "Portafolio personal realizado con entorno de Reacts JS. Se trabajó cada sección por componentes. Instalacion y utilización framework boostrap, enfoque first mobile. Estilos y animaciones con css, uso de State.",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "image": "src/assets/Form-Validator.png",
+    "image": "/assets/Form-Validator.png",
     "title": "FORM VALIDATOR",
     "subtitle": "JAVA SCRIPT, HTML, CSS, BOOSTRAP.",
     "description": "Validación de formulario. Requiere completado de todos los campos, nombre de usuario, correo electrónico, contraseña y confirmación.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": "src/assets/Shoply.png",
+    "image": "/assets/Shoply.png",
     "title": "SHOPLY",
     "subtitle": "REACT JS, HTML, CSS, SASS, CHAKRA UI.",
     "description": "Practica/challenge con React js. Creando brand, landing y componentes. Estilos con libreria ChakraUI; preentrega React Js de CoderHouse. Uso de JSON con API fake, desestructuración, map de objetos, responsive",

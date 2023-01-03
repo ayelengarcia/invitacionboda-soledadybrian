@@ -124,7 +124,7 @@ img {
 }
 
 .fondo-presentacion {
-  background-image: url(../assets/sobremi.png);
+  background-image: url(/assets/sobremi.png);
   background-size: cover;
   max-height: 100%;
   animation: color-change-2x 2s linear infinite alternate both;

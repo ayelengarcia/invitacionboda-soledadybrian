@@ -4,7 +4,7 @@ const Certificate = () => {
   return (
     <div className="certificate row container-fluid d-flex justify-content-around py-5 px-1 mx-0 gap-3">
       <div className="col-10 col-xl-3 box d-flex flex-column align-items-center gap-1 p-2">
-        <img src="src/assets/logocoder.png" alt="Logo CoderHouse" className='logo-coder pt-2'/>
+        <img src="/assets/logocoder.png" alt="Logo CoderHouse" className='logo-coder pt-2'/>
         <h2 className="curso">DESARROLLO WEB</h2>
         <div className='d-flex gap-3'>
           <div className='academ p-1 px-2'>Coder House</div>
@@ -16,7 +16,7 @@ const Certificate = () => {
       </div>
 
       <div className="col-10 col-xl-3 box d-flex flex-column align-items-center gap-1 p-2">
-        <img src="src/assets/logocoder.png" alt="Logo CoderHouse" className='logo-coder pt-2'/>
+        <img src="/assets/logocoder.png" alt="Logo CoderHouse" className='logo-coder pt-2'/>
         <h2 className="curso">JAVA SCRIPT</h2>
         <div className='d-flex gap-3'>
           <div className='academ p-1 px-2'>Coder House</div>
@@ -28,7 +28,7 @@ const Certificate = () => {
       </div>
 
       <div className="col-10 col-xl-3 box d-flex flex-column align-items-center gap-1 p-2">
-        <img src="src/assets/logocoder.png" alt="Logo CoderHouse" className='logo-coder pt-2'/>
+        <img src="/assets/logocoder.png" alt="Logo CoderHouse" className='logo-coder pt-2'/>
         <h2 className="curso">REACT JS</h2>
         <div className='d-flex gap-3'>
           <div className='academ p-1 px-2'>Coder House</div>

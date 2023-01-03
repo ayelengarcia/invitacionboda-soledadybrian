@@ -9,7 +9,7 @@ const Skills = () => {
     <div id="skills" className="skills row container-fluid m-0 py-3">
       <h2 className="p-3 d-flex justify-content-center">MIS HABILIDADES</h2>
 
-      <div className="d-flex justify-content-around flex-wrap gap-1">
+      <div className="col-12 d-flex justify-content-around flex-wrap gap-2">
         {skills.map((card) => {
           return (
             <SkillCard

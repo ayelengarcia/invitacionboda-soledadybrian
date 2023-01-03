@@ -1,77 +1,77 @@
 [
   {
     "id": 1,
-    "img": "src/assets/Html.png",
+    "img": "/assets/Html.png",
     "alt": "Html",
     "clase": "w-100",
     "skill": "HTML"
   },
   {
     "id": 2,
-    "img": "src/assets/Css3.png",
+    "img": "/assets/Css3.png",
     "alt": "Css",
     "clase": "w-100",
     "skill": "CSS"
   },
   {
     "id": 3,
-    "img": "src/assets/Js.png",
+    "img": "/assets/Js.png",
     "alt": "JavaScript",
     "clase": "w-75 pt-1",
     "skill": "JS"
   },
   {
     "id": 4,
-    "img": "src/assets/Github.png",
+    "img": "/assets/Github.png",
     "alt": "Github",
     "clase": "w-100",
     "skill": "Github"
   },
   {
     "id": 5,
-    "img": "src/assets/Git.png",
+    "img": "/assets/Git.png",
     "alt": "GIT",
     "clase": "w-100",
     "skill": "GIT"
   },
   {
     "id": 6,
-    "img": "src/assets/Atom.png",
+    "img": "/assets/Atom.png",
     "alt": "React",
     "clase": "w-100",
     "skill": "React"
   },
   {
     "id": 7,
-    "img": "src/assets/Sass.png",
+    "img": "/assets/Sass.png",
     "alt": "Sass",
     "clase": "w-100",
     "skill": "SASS"
   },
   {
     "id": 8,
-    "img": "src/assets/Nodejs.png",
+    "img": "/assets/Nodejs.png",
     "alt": "Node JS",
     "clase": "w-100",
-    "skill": "Node Js"
+    "skill": "NodeJs"
   },
   {
     "id": 9,
-    "img": "src/assets/Figma.png",
+    "img": "/assets/Figma.png",
     "alt": "Figma",
     "clase": "w-100",
     "skill": "Figma"
   },
   {
     "id": 10,
-    "img": "src/assets/Boost.png",
+    "img": "/assets/Boost.png",
     "alt": "Boostrap",
     "clase": "w-100",
     "skill": "Boostrap"
   },
   {
     "id": 11,
-    "img": "src/assets/Chakra.png",
+    "img": "/assets/Chakra.png",
     "alt": "Chakra UI",
     "clase": "w-75",
     "skill": "ChakraUI"

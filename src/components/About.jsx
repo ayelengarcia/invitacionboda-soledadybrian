@@ -8,8 +8,8 @@ const about = () => {
   return (
     <div id="about" className='row container-fluid d-flex justify-content-center fondo-presentacion m-0'>
       <div className='col-12 col-lg-3 d-flex justify-content-center align-items-center mt-2'>
-        <img src="src/assets/Brujula.webp" alt="Avatar" className='w-50 d-lg-none floating' />
-        <img src="src/assets/Brujula.webp" alt="Ilustracion Brujula" className='avatar-bruju-lg d-none d-lg-flex floating'/>
+        <img src="/assets/Brujula.webp" alt="Avatar" className='w-50 d-lg-none floating' />
+        <img src="/assets/Brujula.webp" alt="Ilustracion Brujula" className='avatar-bruju-lg d-none d-lg-flex floating'/>
       </div>
       <div className=" col-12 col-lg-6 presentacion d-flex flex-column align-items-center mt-4 px-1">  
         <h2>¡Hola!</h2>
