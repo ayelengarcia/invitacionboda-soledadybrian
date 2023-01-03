@@ -23,8 +23,8 @@
     "title": "PORTFOLIO BRUJULA",
     "subtitle": "HTML, CSS, REACT JS, NODE JS, BOOSTRAP, ANIMACIONES",
     "description": "Portafolio personal realizado con entorno de Reacts JS. Se trabajó cada sección por componentes. Instalacion y utilización framework boostrap, enfoque first mobile. Estilos y animaciones con css, uso de State.",
-    "repo": "",
-    "web": ""
+    "repo": "https://github.com/ayelengarcia/BrujulaPortfolio",
+    "web": "https://63b39b6a6aa9ee00090a85a2--brujulaportfolio.netlify.app/index.html#header"
   },
   {
     "id": 4,
