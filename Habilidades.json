@@ -65,9 +65,9 @@
   {
     "id": 10,
     "img": "/assets/Boost.png",
-    "alt": "Boostrap",
+    "alt": "Bootstrap",
     "clase": "w-75",
-    "skill": "Boostrap"
+    "skill": "Bootstrap"
   },
   {
     "id": 11,
