@@ -1,8 +1,24 @@
+import {Header} from "./Header.styled"
 
+const header = (props) => {
 
-const header = () => {
+  const changeTheme = () => {
+    if (props.theme === "light") {
+      props.setTheme("dark")
+    } else {
+      props.setTheme("light")
+    }
+  }
+
+  let icono =
+    props.theme === "light" ? (
+      <i className="bi bi-moon-stars-fill"></i>
+    ) : (
+      <i class="bi bi-cloud-sun-fill"></i>
+    );
+
   return (
-    <header id="header" className="py-1">
+    <Header id="header" className="py-1">
       <div className="navbar m-2 mx-3">
         <div className="col-12 d-flex justify-content-between align-items-center px-3">
           <div className="col-1">
@@ -31,9 +47,9 @@ const header = () => {
                 <i className="bi bi-chat-left-dots"></i>
               </a>
             </li>
-            <li>
+            <li onClick={() => changeTheme()}>
               <a className="vista" href="#">
-                <i className="bi bi-moon-stars-fill"></i>
+                {icono}
               </a>
             </li>
           </ul>
@@ -62,7 +78,7 @@ const header = () => {
           </span>
         </div>
       </div>
-    </header>
+    </Header>
   );
 };
 

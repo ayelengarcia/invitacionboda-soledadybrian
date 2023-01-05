@@ -1,11 +1,11 @@
+import { Footer } from "./Footer.styled";
 
-
-const Footer = () => {
+const footer = () => {
   return (
-    <div className="footer">
+    <Footer>
       <p className='m-0 p-2 px-3'>© AyelenGarcía - 2022. Todos los derechos reservados.</p>
-    </div>
+    </Footer>
   );
 }
 
-export default Footer
+export default footer

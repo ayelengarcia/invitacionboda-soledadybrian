@@ -1,12 +1,13 @@
 import { useState } from "react";
 import Modal from "../components/Modal";
+import { About } from "./About.styled";
 
 const about = () => {
 
   const [statusModal, changeStatus] = useState(false);
   
   return (
-    <div id="about" className='row container-fluid d-flex justify-content-center fondo-presentacion m-0'>
+    <About id="about" className='row container-fluid d-flex justify-content-center fondo-presentacion m-0'>
       <div className='col-12 col-lg-3 d-flex justify-content-center align-items-center mt-2'>
         <img src="/assets/Brujula.webp" alt="Avatar" className='w-50 d-lg-none floating' />
         <img src="/assets/Brujula.webp" alt="Ilustracion Brujula" className='avatar-bruju-lg d-none d-lg-flex floating'/>
@@ -25,7 +26,7 @@ const about = () => {
       <div className='col-lg-3 m-0 p-0'></div>
       <div className='cont-btn col-12 d-flex justify-content-center px-0' onClick={()=> changeStatus(!statusModal)}><button className='col-5 col-lg-2 btn-cv p-1 '><i className="bi bi-download pe-2"></i>Descargar CV</button></div>
       <Modal estado={statusModal} cambiarEstado={changeStatus} />
-    </div>
+    </About>
   );
 }
 
