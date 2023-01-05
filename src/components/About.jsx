@@ -17,8 +17,8 @@ const about = () => {
         <h1>SOY <span className='nombre'>AYELEN GARCÍA,</span></h1>
         <h2 className='jr-front'>JR FRONTEND DEVELOPER</h2>
         <p className='p-4 pb-0'>
-          Me dicen Aye o Bruju, <br /> Quienes me conocen saben que soy una persona muy <span>resolutiva y practica!.</span> Soy espontanea, intuitiva, creativa y me
-          encanta el mundo del gaming, de donde viene mi <span>pasion por el mundo de
+          Me dicen Aye o Bruju, <br /> Quienes me conocen saben que soy una persona muy <span>resolutiva y práctica!.</span> Soy espontanea, intuitiva, creativa y me
+          encanta el mundo del gaming, de donde viene mi <span>pasión por el mundo de
           la tecnología y el diseño de interfaz!</span> <br /> Actualmente me encuentro
           terminando la carrera de Fronted Dev en <span>CoderHouse.</span>
         </p>

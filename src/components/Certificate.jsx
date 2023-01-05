@@ -15,8 +15,8 @@ const certificate = () => {
           <div className="fecha p-1 px-2">Jul-Oct 2022</div>
         </div>
         <p className="texto">
-          Creacion de sitios web con HTML y CSS. Maquetado, practicas de
-          versionado, preprocesadores, librerias, servidores y SEO.
+          Creación de sitios web con HTML y CSS. Maquetado, prácticas de
+          versionado, preprocesadores, librerías, servidores y SEO.
         </p>
         <a
           href="https://www.coderhouse.com/certificados/63489fedfc92c5000eed23cf"
@@ -40,8 +40,8 @@ const certificate = () => {
           <div className="fecha p-1 px-2">Oct-Dic 2022</div>
         </div>
         <p className="texto">
-          Creacion de aplicaciones con JavaScript. Desarrollo con tecnología
-          AJAX. Fetch, promises, API, librerias JS y buenas practicas.
+          Creación de aplicaciones con JavaScript. Desarrollo con tecnología
+          AJAX. Fetch, promises, API, librerías JS y buenas prácticas.
         </p>
         <a
           href="https://www.coderhouse.com/certificados/63a07f31f87bb4000e3ef1df"
@@ -65,7 +65,7 @@ const certificate = () => {
           <div className="fecha p-1 px-2">Dic-Feb 2023</div>
         </div>
         <p className="texto">
-          Creacion de aplicaciones SPA. Programacion por componentes mediante JS
+          Creación de aplicaciones SPA. Programación por componentes mediante JS
           y flujos de datos. Manejo de rutas con Firebase.
         </p>
         <div className="btn-cv btn-disabled p-1 px-2">CURSANDO</div>

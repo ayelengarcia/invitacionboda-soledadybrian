@@ -24,14 +24,12 @@ const skills = () => {
         })}
       </div>
 
-      <div className="row d-flex justify-content-center align-items-center p-4 pb-1 gap-2">
-        <p className="col-12 col-lg-5 pt-3">
-          Me gusta conocer y aprender nuevas herramientas y habilidades
-          continuamente. Siempre actualizo mis prácticas en mi repositorio, te
-          invito a verlo!
+      <div className="row d-flex justify-content-center align-items-center pb-1 gap-1">
+        <p className="col-12 col-lg-6 pt-3">
+          Me gusta conocer y aprender nuevas herramientas y habilidades   continuamente. Además de React JS, estoy aprendiento Next JS y Context. Proximamente iniciaré algunos cursos intensivos de UX/UI. Siempre actualizo mis prácticas en mi repositorio, te invito a verlo!
         </p>
-        <a href="https://github.com/ayelengarcia/" target="_blank" className="col-10 col-lg-3 col-xl-2">
-          <button className=" btn-git p-1 px-2 mb-2">
+        <a href="https://github.com/ayelengarcia/" target="_blank" className="text-decoration-none d-flex justify-content-center col-10 col-lg-3 col-xl-2">
+          <button className=" btn-git p-1 px-2 mb-3">
             <i className="bi bi-github pe-2"></i>Github-Profile
           </button>
         </a>
