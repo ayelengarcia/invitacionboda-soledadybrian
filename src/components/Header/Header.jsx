@@ -1,14 +1,13 @@
-import {Header} from "./Header.styled"
+import { Header } from "./Header.styled";
 
 const header = (props) => {
-
   const changeTheme = () => {
     if (props.theme === "light") {
-      props.setTheme("dark")
+      props.setTheme("dark");
     } else {
-      props.setTheme("light")
+      props.setTheme("light");
     }
-  }
+  };
 
   let icono =
     props.theme === "light" ? (

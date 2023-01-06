@@ -1,12 +1,11 @@
 import { useState } from "react";
-import proyectos from "../../proyectos.json"
-import ProjectCard from "../components/ProjectCard";
-import {Projects} from "./Projects.styled"
+import proyectos from "../../../proyectos.json";
+import ProjectCard from "./ProjectCard";
+import { Projects } from "./Projects.styled";
 
 const projects = () => {
-
   const [productos, setProductos] = useState(proyectos);
-  
+
   return (
     <Projects id="projects" className="row container-fluid m-0 py-3 pb-5">
       <h2 className="p-3 d-flex justify-content-center title">MIS PROYECTOS</h2>

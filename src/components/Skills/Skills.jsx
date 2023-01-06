@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Habilidades from "../../Habilidades.json";
+import Habilidades from "../../../Habilidades.json";
 import SkillCard from "./SkillCard";
 import {Skills} from "./Skills.styled"
 
