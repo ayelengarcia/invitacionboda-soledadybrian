@@ -13,7 +13,7 @@
     "image": "/assets/BrujuVG.png",
     "title": "BRUJULA VEGAN",
     "subtitle": "HTML, CSS, SASS, BOOTSTRAP, SEO, JS, JSON y Fetch.",
-    "description": "Brujula Vegan es un Sitio Web de recetas veganas inspirado en un emprendimiento personal. Con el inicio de mi nuevo camino en el mundo del desarrollo surge la idea de usar este proyecto personal para darle vida a la creatividad y la dedicación que requería el de mi primer desarrollo web",
+    "description": "Brujula Vegan es un Sitio Web de recetas veganas inspirado en un emprendimiento personal. Con el inicio de mi nuevo camino en el mundo del desarrollo surge la idea de usar este proyecto personal para darle vida a la creatividad y la dedicación que requería el de mi primer desarrollo web.",
     "repo": "https://github.com/ayelengarcia/BrujulaVegan-ProyectoFinalCoder.DesarrolloWeb",
     "web": "https://brujula-vegan.000webhostapp.com/"
   },
@@ -28,20 +28,21 @@
   },
   {
     "id": 4,
+    "image": "/assets/shoply.png",
+    "title": "SHOPLY GAMER",
+    "subtitle": "REACT JS, HTML, CSS, CHAKRA UI.",
+    "description": "Proyecto final React js CoderHouse. Se trata de un ecommerce de componentes para PC y Gaming. Creando brand, landing y componentes. Estilos con libreria ChakraUI, JSON, Promises, axios (Fetch), rutas dinámicas (react-router-dom), hooks, etc. En desarrollo.",
+    "repo": "https://github.com/ayelengarcia/shoplygamer",
+    "web": "https://shoplygamer.netlify.app/"
+  },
+  {
+    "id": 5,
     "image": "/assets/Form-Validator.png",
     "title": "FORM VALIDATOR",
     "subtitle": "JAVA SCRIPT, HTML, CSS, BOOTSTRAP.",
     "description": "Challenge de validación de formulario. Requiere completado de todos los campos, nombre de usuario, correo electrónico, contraseña y confirmación.",
     "repo": "https://github.com/ayelengarcia/Form-Validator",
     "web": "https://ayelengarcia.github.io/Form-Validator/"
-  },
-  {
-    "id": 5,
-    "image": "/assets/shoply.png",
-    "title": "SHOPLY",
-    "subtitle": "REACT JS, HTML, CSS, SASS, CHAKRA UI.",
-    "description": "Proyecto React js. Creando brand, landing y componentes. Estilos con libreria ChakraUI; preentrega React Js de CoderHouse. Uso de JSON con API fake, desestructuración, map de objetos, responsive. En desarrollo.",
-    "repo": "https://github.com/ayelengarcia/ShoplyStore-Components-React",
-    "web": "https://ayelengarcia.github.io/ShoplyStore-Components-React/"
   }
+  
 ]
