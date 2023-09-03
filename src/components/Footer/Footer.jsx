@@ -10,9 +10,17 @@ const footer = () => {
         <p className="gracias">¡Gracias por acompañarnos!</p>
       </div>
       <div className="dev d-flex justify-content-between align-items-center">
-      <p className="dev-text d-flex justify-content-between align-items-center m-0 p-2">Desarrollo Web: <a className="dev-text d-flex align-items-center no-wrap ms-1" href="#" target="_blank"><i class="bi bi-instagram pe-1"></i> AyelenGiselle</a></p>
+        <p className="dev-text d-flex justify-content-between align-items-center m-0 p-2">
+          Desarrollo Web:{" "}
+          <a
+            className="dev-text d-flex align-items-center no-wrap ms-1"
+            href="https://www.instagram.com/giselle_ayelen/"
+            target="_blank"
+          >
+            <i class="bi bi-instagram pe-1"></i> AyelenGiselle
+          </a>
+        </p>
         <p className="dev-text  m-0 p-2">© Copyright - 2023</p>
-        
       </div>
     </Footer>
   );

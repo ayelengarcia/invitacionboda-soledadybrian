@@ -9,7 +9,7 @@ const asistencia = () => {
       <p className="texto mb-3 d-flex justify-content-center">
         que confirmes tu asistencia
       </p>
-      <div className="d-flex justify-content-center ps-5 py-2">
+      <div className="d-flex justify-content-center ps-4 py-2">
         <a
           className="d-flex flex-column justify-content-center align-items-center ps-5 pt-4"
           href="https://docs.google.com/forms/d/e/1FAIpQLScZW93WCwIIsiK0aygOVfNWny3EE77fjEscSLkmNzYXCs3B1Q/viewform?usp=sharing"
